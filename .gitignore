@@ -1,5 +1,7 @@
 # subfolders
 */data
+*/datasets
+*/.data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
